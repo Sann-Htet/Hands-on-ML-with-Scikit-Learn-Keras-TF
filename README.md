@@ -15,3 +15,5 @@ The author favors a hands-on approach through a series of working examples and j
 * Familiarity with NumPy, Pandas, and Matplotlib
 * A reasonable understanding of college-level math (calculus, probability, Linear Algebra, and statistics)
 The first part of the book is mostly based on Scikit-Learn, while the 2nd part is using Keras/TensorFlow.
+
+I tried to solve all the Exercises and cover all the Chapters in this book. This book helped me to sharpen my Machine Learning knowledge and my coding skills. Thank you sir Aurelien Geron.
